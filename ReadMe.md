@@ -1,8 +1,8 @@
-This is a Spring boot application having vault for reading teh encrypted configuration using vault token.
+This is a Spring boot application having vault for reading encrypted configurations using vault token.
 
 
 Install Vault::
-Go to https://www.vaultproject.io/downloads.html    and for windows 64 version select  windows 64 and down load it.
+Go to https://www.vaultproject.io/downloads.html    and for windows 64 version select  windows 64 and download it.
 unzip the downloaded software to a folder
 go to the folder using cmd and cd command 
 and run the below commands for vault
